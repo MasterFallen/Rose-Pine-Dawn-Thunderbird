@@ -1,0 +1,48 @@
+{
+    "manifest_version": 2,
+    "name": "Rose Pine Dawn",
+    "version": "1.0",
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "example@example.com",
+        "strict_min_version": "67.0"
+      }
+    },
+    "description": "A theme based on the Rose Pine Dawn color scheme.",
+    "icons": {
+      "16": "icon.png"
+    },
+    "theme": {
+        "colors": {
+        "frame": "#faf4ed",
+        "tab_text": "#797593",
+        "tab_line": "#f75e54",
+        "tab_loading": "#f75e54",
+        "tab_background_text": "#797593",
+        "bookmark_text": "#797593",
+        "toolbar_field": "#f8f8f8",
+        "toolbar_field_text": "#000",
+        "toolbar_field_highlight": "#f75e54",
+        "toolbar_field_highlight_text": "#fff",
+        "toolbar_field_border": "#999",
+        "toolbar_field_focus": "#f2f2f2",
+        "toolbar_field_text_focus": "#000",
+        "toolbar_field_border_focus": "#f75e54",
+        "toolbar_top_separator": "#aaa",
+        "toolbar_bottom_separator": "#888",
+        "toolbar_vertical_separator": "#888",
+        "sidebar": "#faf4ed",
+        "sidebar_text": "#444",
+        "sidebar_highlight": "rgba(192,112,120,.5)",
+        "sidebar_highlight_text": "#fff",
+        "sidebar_border": "#999",
+        "popup": "#e6e8ef",
+        "popup_text": "#000",
+        "popup_border": "#666",
+        "popup_highlight": "#f75e54",
+        "popup_highlight_text": "#fff"
+    }
+    }
+  }
+  
+  
